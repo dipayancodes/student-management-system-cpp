@@ -1,0 +1,12 @@
+John Doe,2021001,Computer Science,johndoe@example.com
+Jane Smith,2021002,Electrical Engineering,janesmith@example.com
+Michael Johnson,2021003,Mechanical Engineering,michaeljohnson@example.com
+Emily Brown,2021004,Chemical Engineering,emilybrown@example.com
+David Lee,2021005,Civil Engineering,davidlee@example.com
+Sarah Wilson,2021006,Information Technology,sarahwilson@example.com
+Robert Davis,2021007,Computer Science,robertdavis@example.com
+Jennifer Wilson,2021008,Electrical Engineering,jenniferwilson@example.com
+Matthew Thompson,2021009,Mechanical Engineering,matthewthompson@example.com
+Olivia Johnson,2021010,Chemical Engineering,oliviajohnson@example.com
+
+dipayan,203030,data science and analytics,dipayancodes@gmail.com
